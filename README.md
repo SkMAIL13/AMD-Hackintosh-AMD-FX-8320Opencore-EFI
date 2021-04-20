@@ -37,3 +37,5 @@ ______________________________________________________
 ## Conclusion
 
 It works not as fast as Windows or Linux, i think because of my old HDD, with SSD it would be good
+______________________________________________________
+#### Hello visitor, ur welcome to my EFI folder, use it and be full of fun, bye 🤚
