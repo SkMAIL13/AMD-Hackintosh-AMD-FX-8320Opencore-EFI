@@ -7,15 +7,15 @@
 ## Bootloader: OpenCore 0.6.6
 
 ## My PC specs: 
-- CPU: 
+- **CPU**: 
   - Amd FX-8320
-- GPU: 
+- **GPU**: 
   - Sapphire r9 280 3gb
-- Ram: 
+- **Ram**: 
   - 2 x 4 Kingston HyperX Blu @1600
-- Motherboard:
+- **Motherboard**:
   - AsRock 990fx extreme 3
-- HDD:
+- **HDD**:
   - Kingston 320gb
  ______________________________________________________
  ### [How to install (GUIDE) ](https://dortania.github.io/getting-started/)  
