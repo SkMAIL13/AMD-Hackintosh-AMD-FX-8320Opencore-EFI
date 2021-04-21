@@ -1,6 +1,6 @@
 # **AMD-FX-Hackintosh-Opencore-EFI**
 
-![Catalina-wallpaper](https://techlapse.com/wp-content/uploads/2019/06/macos-catalina-1-610x368.jpg)
+![hackintosh-catalina](https://i.ibb.co/z6WS3c8/2.jpg)
 
 
 ## MacOS Catalina 10.15.7
@@ -19,6 +19,7 @@
   - Kingston 320gb
  ______________________________________________________
  ### [How to install (GUIDE) ](https://dortania.github.io/getting-started/)  
+ ### [MY EFI FOLDER](https://github.com/SkMAIL13/AMD-FX-Hackintosh-Opencore-EFI/tree/master/EFI)
  ### Dont forget to change [platform-info at my config.plist to yours](https://dortania.github.io/OpenCore-Install-Guide/AMD/fx.html#platforminfo_)
   ______________________________________________________
  #### Working:
@@ -36,6 +37,6 @@
 ______________________________________________________
 ## Conclusion
 
-It works not as fast as Windows or Linux, i think because of my old HDD, with SSD it would be good
+It works not as fast as Windows or Linux, i think because of my old HDD (+ only 8gb ram), with SSD (mb + 16gb ram) it would be good
 ______________________________________________________
 #### Hello visitor, ur welcome to my [EFI folder](https://github.com/SkMAIL13/AMD-FX-Hackintosh-Opencore-EFI/tree/master/EFI), use it and be full of fun, bye 🤚
