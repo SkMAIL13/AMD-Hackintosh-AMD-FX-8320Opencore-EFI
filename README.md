@@ -8,7 +8,7 @@
 
 ## My PC specs: 
 - **CPU**: 
-  - Amd FX-8320
+  - Amd FX-8320 3,5 GHz
 - **GPU**: 
   - Sapphire r9 280 3gb
 - **Ram**: 
